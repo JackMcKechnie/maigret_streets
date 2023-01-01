@@ -6,7 +6,6 @@ The Paris streets of the Maigret novels
   <img src="https://github.com/JackMcKechnie/maigret_streets/blob/main/maigret_final_100_with_text.png" />
 </p>
 
-<p align="center">
 In order to keep up my written French after finishing university, I have been reading books in their original French language. After a few heavy and slow going reads about poverty and colonisation in the Maghreb and the rise and fall of council housing in Paris, I decided that it was time for something a bit lighter. Helped along by being gifted a copy of “Maigret et le Tueur” I decided to read some of Georges Simenon’s Maigret series. The novels follow Jules Maigret as he investigates a wide range of crimes, from simple thefts to complex murders, using his unique combination of intelligence, intuition, and understanding of human nature to solve cases and bring perpetrators to justice.
 
   
@@ -34,4 +33,3 @@ The code from this step can be seen [here](https://github.com/JackMcKechnie/maig
 However, this provided somewhat unsatisfactory results. There just wasn’t enough data for the map to be interesting or show much information of use as most of the streets were mentioned only once or twice. Therefore, I went back onto vk.com and downloaded the rest of the Maigret books and repeated my steps to generate the above map.
 
 To return to my original questions and conclude: A) yes they are real streets mentioned in the book and B) the books take place all over Paris. There is the obvious common streets around the Palais de Justice on Quai des Orfèvres and Place Dauphine. Interestingly, almost all of the most commonly mentioned streets are north of the Seine, with the notable exception of Boulevard Saint-Germain passing through Latin Quarter and the Sorbonne. I’m not sure that I’ve taken anything of note from the actual map, other than it’s something that looks quite nice and that I enjoyed making. I don’t think we can take away some interesting point about crime in Paris, or about Maigret - other than he never visited anywhere outside the Boulevard Périphérique according to this map! However, it was a nice way of spending a few hours over the 2022/2023 Christmas and New Year period and I got the chance to use the amazing OSMnx package for something I was interested in.
-</p>
