@@ -1,0 +1,316 @@
+Quai des Orfèvres, 570
+Boulevard Richard-Lenoir, 156
+Rue Caulaincourt, 101
+Rue Notre-Dame-de-Lorette, 94
+Place des Vosges, 87
+Boulevard Haussmann, 82
+Boulevard Saint-Germain, 72
+Rue Popincourt, 72
+Rue Lepic, 66
+Boulevard Voltaire, 64
+Rue des Saussaies, 62
+Boulevard de Courcelles, 58
+Rue des Acacias, 56
+Avenue Junot, 55
+Rue Tholozé, 51
+Pont Saint-Michel, 50
+Rue de Turenne, 49
+Boulevard Saint-Michel, 46
+Boulevard des Batignolles, 46
+Quai de Valmy, 43
+Rue de Douai, 36
+Rue Chaptal, 36
+Quai de la Gare, 36
+Place Blanche, 33
+Rue de Rivoli, 33
+Rue Saint-Dominique, 33
+Place Pigalle, 32
+Boulevard Pasteur, 32
+Place de la République, 31
+Pont Marie, 31
+Rue Lhomond, 31
+Rue Notre-Dame-des-Champs, 31
+Avenue Carnot, 31
+Rue Saint-Charles, 30
+Rue de Ponthieu, 28
+Rue Saint-Antoine, 27
+Boulevard Saint-Martin, 27
+Rue Manuel, 27
+Place de la Concorde, 26
+Place du Tertre, 26
+Avenue de Wagram, 24
+Rue de la Roquette, 24
+Boulevard de Charonne, 24
+Place Dauphine, 23
+Rue Blanche, 22
+Rue Washington, 22
+Rue Fortuny, 22
+Rue La Fayette, 21
+Place Vendôme, 21
+Rue Jacob, 20
+Rue Rabelais, 20
+Rue Mouffetard, 20
+Avenue Marceau, 20
+Boulevard Beaumarchais, 19
+Rue Ballu, 19
+Place de la Bastille, 19
+Porte Maillot, 18
+Place des Ternes, 18
+Rue Saint-Honoré, 17
+Rue Monsieur, 17
+Rue Rambuteau, 17
+Rue du Saint-Gothard, 17
+Boulevard Raspail, 16
+Fer à Cheval, 15
+Rue La Bruyère, 15
+Rue des Saints-Pères, 15
+Rue de Varenne, 14
+Rue de Clichy, 13
+Place Saint-Georges, 13
+Boulevard de la Chapelle, 13
+Boulevard de Clichy, 13
+Rue Brey, 13
+Rue Vaneau, 13
+Rue Fléchier, 13
+Rue Montmartre, 12
+Quai A, 12
+Rue Royale, 12
+Rue Roy, 12
+Rue François 1er, 12
+Avenue des Ternes, 11
+Rue des Blancs-Manteaux, 11
+Rue Delambre, 11
+Boulevard de Grenelle, 11
+Rue des Dames, 11
+Boulevard du Palais, 11
+Rue du Caire, 11
+Rue de Lappe, 10
+Le Square, 10
+Place Saint-Augustin, 10
+Quai des Célestins, 10
+Quai de Bercy, 10
+Rue des Pyramides, 10
+Rue Lamarck, 10
+Rue de Miromesnil, 9
+Rue Drouot, 9
+Pont Mirabeau, 9
+Rue Dareau, 9
+Rue du Cirque, 9
+Boulevard Barbès, 8
+Avenue Matignon, 8
+Rue Réaumur, 8
+Rue des Rondeaux, 8
+Rue Auber, 8
+Rue de Longchamp, 8
+Rue Marbeuf, 8
+Porte Saint-Denis, 8
+Quai de Jemmapes, 8
+Place des Abbesses, 8
+Rue de la Pompe, 8
+Boulevard Brune, 8
+Rue de Seine, 8
+Rue Riquet, 8
+Rue Richer, 8
+Avenue Trudaine, 7
+Rue de la Paix, 7
+Rue de Berri, 7
+Avenue Niel, 7
+Rue de Sèvres, 7
+Rue des Martyrs, 7
+Quai de la Mégisserie, 7
+Rue de Rennes, 7
+Rue de Clignancourt, 7
+Rue de la Lune, 7
+Boulevard des Italiens, 6
+Quai de la Tournelle, 6
+Boulevard des Capucines, 6
+Rue de Maubeuge, 6
+Rue de Bassano, 6
+Place Maubert, 6
+Rue des Rosiers, 6
+Rue des Batignolles, 6
+Rue Gay-Lussac, 6
+Rue des Récollets, 6
+Allée Centrale, 6
+Rue Brunel, 6
+Rue du Bac, 5
+Boulevard Suchet, 5
+Place des Victoires, 5
+Place Denfert-Rochereau, 5
+Avenue de la République, 5
+Avenue Hoche, 5
+Rue Saint-Paul, 5
+Rue de Charonne, 5
+Rue du Faubourg Saint-Antoine, 5
+Pont National, 5
+Rue Clément, 5
+Pont Suspendu, 5
+Rue Française, 4
+Rue de Birague, 4
+Rue de Provence, 4
+Boulevard du Montparnasse, 4
+Avenue des Gobelins, 4
+Rue Vavin, 4
+Rue des Gravilliers, 4
+Rue de Courcelles, 4
+Rue Froment, 4
+Rue Fromentin, 4
+Rue des Écoles, 4
+Place du Châtelet, 4
+Pont de Bercy, 4
+Rue Norvins, 4
+Avenue de Villiers, 4
+Quai Voltaire, 4
+Rue de Picpus, 4
+Rue Magellan, 4
+Rue Chardon-Lagache, 4
+Rue Bergère, 3
+Rue Championnet, 3
+Rue de Paris, 3
+Rue de Presbourg, 3
+Avenue Montaigne, 3
+Rue du Temple, 3
+Avenue de la Motte-Picquet, 3
+Rue Coquillière, 3
+Boulevard Saint-Denis, 3
+Rue de Grenelle, 3
+Rue Saint-Georges, 3
+Rue du Croissant, 3
+Rue Blondel, 3
+Rue des Peupliers, 3
+Rue Saint-Martin, 3
+Pont de Puteaux, 3
+Rue des Abbesses, 3
+Quai de Bourbon, 3
+Pont Louis-Philippe, 3
+Rue Froidevaux, 3
+Rue La Boétie, 3
+Rue Taitbout, 3
+Avenue de Versailles, 3
+Avenue Foch, 3
+Avenue Mac-Mahon, 3
+Rue des Capucines, 3
+Rue du Sentier, 2
+Allée Principale, 2
+Boulevard de Sébastopol, 2
+Rue de Béarn, 2
+Pont Neuf, 2
+Avenue de Clichy, 2
+Boulevard Malesherbes, 2
+Avenue Gabriel, 2
+Rue du Four, 2
+Rue Tronchet, 2
+Place Beauvau, 2
+Rue du Louvre, 2
+Avenue Victoria, 2
+Boulevard de Strasbourg, 2
+Rue de Solférino, 2
+Rue Poissonnière, 2
+Rue Saint-Jacques, 2
+Rue Servan, 2
+Rue de la Victoire, 2
+Avenue Daumesnil, 2
+Boulevard Montmartre, 2
+Rue de Castiglione, 2
+Rue Saint-Lazare, 2
+Boulevard du Temple, 2
+Avenue des Champs-Élysées, 2
+Boulevard de la Madeleine, 2
+Rue Trousseau, 2
+Rue Saint-Médard, 2
+Rue de Châteaudun, 2
+Rue de Bourgogne, 2
+Rue de Villersexel, 2
+Pont de la Concorde, 2
+Rue du Colisée, 2
+Quai de Grenelle, 2
+Place Saint-Michel, 2
+Rue du Faubourg Saint-Honoré, 2
+Villa Moderne, 2
+Place Saint-Sulpice, 2
+Avenue Rachel, 2
+Rue Duranti, 2
+Rue Durantin, 2
+Passage Jouffroy, 2
+Rue de Prony, 2
+Place de la Madeleine, 2
+Rue Pasquier, 1
+Rue Turgot, 1
+Avenue Denfert-Rochereau, 1
+Port de Bercy, 1
+Pont de la Tournelle, 1
+Rue Duperré, 1
+Pont au Change, 1
+Rue des Halles, 1
+Boulevard Pereire, 1
+Rue Cadet, 1
+Rue Mansart, 1
+Rue Henner, 1
+Boulevard Arago, 1
+Rue du Jour, 1
+Rue Cuvier, 1
+Rue de Bercy, 1
+Avenue de Neuilly, 1
+Rue de Dunkerque, 1
+Rue Chauchat, 1
+Entrée Est, 1
+Rue de Crimée, 1
+Rue Saint-Roch, 1
+Avenue du Maine, 1
+Rue du Pré, 1
+Rue Condorcet, 1
+Rue de la Gaîté, 1
+Boulevard de Ménilmontant, 1
+Rue de la Faisanderie, 1
+Rue de Vaugirard, 1
+Rue Saint-Denis, 1
+Rue des Tournelles, 1
+Rue Amelot, 1
+Rue des Bernardins, 1
+Rue Notre-Dame-de-Nazareth, 1
+Rue Meslay, 1
+Rue des Lilas, 1
+Rue de Richelieu, 1
+Rue de Hanovre, 1
+Rue Gabrielle, 1
+Rue de Tocqueville, 1
+Rue Saint-Florentin, 1
+Boulevard Victor, 1
+Rue Greuze, 1
+Rue Duphot, 1
+Rue Daunou, 1
+Rue Lauriston, 1
+Chemin Latéral, 1
+Rue du Faubourg Saint-Martin, 1
+Route des Chênes, 1
+Rue Saint-Sauveur, 1
+Rue Cambon, 1
+Quai de Béthune, 1
+Rue Laffitte, 1
+Rue Monge, 1
+Rue de Passy, 1
+Port de Grenelle, 1
+Rue de Lille, 1
+Quai des Tuileries, 1
+Rue Beaubourg, 1
+Rue de Turbigo, 1
+Rue Chapon, 1
+Rue des Archives, 1
+Rue de la Verrerie, 1
+Rue des Écouffes, 1
+Rue des Saules, 1
+Parvis du Sacré-Cœur, 1
+Rue Perrée, 1
+Boulevard de la Bastille, 1
+Rue de Cambrai, 1
+Rue Nollet, 1
+Avenue de Saint-Ouen, 1
+Rue Étex, 1
+Rue Cabanis, 1
+Quai des Grands Augustins, 1
+Avenue de la Grande Armée, 1
+Avenue Centrale, 1
+Rue Damrémont, 1
+Boulevard Saint-Jacques, 1
+Rue Boileau, 1
+Boulevard Exelmans, 1
