@@ -7,7 +7,7 @@ The Paris streets of the Maigret novels
 </p>
 
 <p align="center">
-In order to keep up my written French after finishing university, I have been reading books in their original French language. After a few heavy and slow going reads about poverty and colonisation in the Magrheb and the rise and fall of council housing in Paris, I decided that it was time for something a bit lighter. Helped along by being gifted a copy of “Maigret et le Tueur” I decided to read some of Georges Simenon’s Maigret series. The novels follow Jules Maigret as he investigates a wide range of crimes, from simple thefts to complex murders, using his unique combination of intelligence, intuition, and understanding of human nature to solve cases and bring perpetrators to justice.
+In order to keep up my written French after finishing university, I have been reading books in their original French language. After a few heavy and slow going reads about poverty and colonisation in the Maghreb and the rise and fall of council housing in Paris, I decided that it was time for something a bit lighter. Helped along by being gifted a copy of “Maigret et le Tueur” I decided to read some of Georges Simenon’s Maigret series. The novels follow Jules Maigret as he investigates a wide range of crimes, from simple thefts to complex murders, using his unique combination of intelligence, intuition, and understanding of human nature to solve cases and bring perpetrators to justice.
 
   
 
